@@ -1,6 +1,6 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "test test TEST test test"
+subtitle: coffee coffee coffee
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?

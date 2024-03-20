@@ -1,6 +1,6 @@
 ---
 title: "Interactive Tools for Data Analytics"
-subtitle: "Tailored designs and features for each client""
+subtitle: Tailored designs and features for each client
 image: /img/home-jumbotron.jpg
 intro:
   heading: "What we offer"

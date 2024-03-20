@@ -11,7 +11,7 @@ intro:
         blurbs:
     - image: /img/illustrations-coffee.svg
     text: >
-      <iframe height="250px" width="50%" src="https://usgrains.corn-simulator.ecodata.pro/" frameborder="0"></iframe>
+      We bring together life science, agriculture, natural resource, and data science professionals to improve outcomes for our clients, by developing end-to-end, web-based decision-support tools and providing data science and statistics consulting services.
   intro:
       heading: "What we offer"
       text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."

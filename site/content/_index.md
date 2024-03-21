@@ -7,9 +7,9 @@ blurb:
     text: this is a short text blurb text block
 intro:
     heading: "This is a 2-up heading"
-    text: "This is a 2-up text block
+    text: "This is a 2-up text block"
 intro:
-  headings: test
+  heading: test
   blurbs:
     - image: /img/illustrations-coffee.svg
       text: >

@@ -5,8 +5,7 @@ image: /img/home-jumbotron.jpg
 blurb:
     heading: This is a short text blurb heading
     text: this is a short text blurb text block
-twoup:
-  intro:
+intro:
       heading: "This is a 2-up heading"
       text: "This is a 2-up text block
   products:

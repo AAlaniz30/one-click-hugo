@@ -8,8 +8,6 @@ blurb:
 intro:
     heading: "This is a 2-up heading"
     text: "This is a 2-up text block"
-intro:
-  heading: test
   blurbs:
     - image: /img/illustrations-coffee.svg
       text: >

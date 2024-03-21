@@ -1,6 +1,6 @@
 ---
-title: "test test TEST test test"
-subtitle: coffee coffee coffee
+title: This is a jumbotron title
+subtitle: This is a jumbotron subtitle
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
